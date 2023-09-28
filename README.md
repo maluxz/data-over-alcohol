@@ -18,7 +18,7 @@ El objetivo de este proyecto es explorar los conceptos de óptica y modulación 
 
 ## Instrucciones de Uso
 
-Proporciono un enlace a un video de demostración del proyecto en funcionamiento. Puedes verlo en [este enlace de YouTube](https://youtu.be/5L_pAHBSYFc
+Proporciono un enlace a un video de demostración del proyecto en funcionamiento. Puedes verlo en [este enlace de YouTube](https://youtu.be/5L_pAHBSYFc)
 
 ## Licencia
 
